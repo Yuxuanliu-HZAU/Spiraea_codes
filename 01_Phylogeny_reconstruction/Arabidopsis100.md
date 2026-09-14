@@ -37,4 +37,4 @@ hybsuite full_pipeline \
 - `<sample_name_list>`: The sample list file.
 - `<input_data>`: The directory containing all input public data and self-sequenced WGS data.
 - `<out_dir>`: The output directory.
-- `<target_loci_fasta>`: The Arabidopsis100 target loci file (designed for Rosaceae).
+- `<target_loci_fasta>`: The Arabidopsis100 target loci file (protein sequences).
