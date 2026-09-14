@@ -1,5 +1,5 @@
 # Chloroplast
-This page documents the running code for reconstructing nuclear phylogeny with Chloroplast dataset in our study.
+This page documents the running code for reconstructing chloroplast phylogeny in our study.
 
 ## 01 Prepare public data and self-sequenced WGS raw data
 The SRA accession list of public data has been recorded in our supporting information file (Table S4) and the self-sequenced WGS raw data has been released in [NGDC](https://ngdc.cncb.ac.cn/gsa/search?searchTerm=CRA049166) with the accession number **CRA049166**.
@@ -15,7 +15,7 @@ The details of how to prepare sample name list file can be found in HybSuite man
 
 ## 03 Prepare the Chloroplast target loci file
 
-We have released the Chloroplast target loci file (79 loci) used in our study [here](https://github.com/Yuxuanliu-HZAU/Spiraea_codes/blob/main/01_Phylogeny_reconstruction/Reference_Arabidopsis_thaliana_protein.fasta). Download it before running HybSuite.
+We have released the Chloroplast target loci file (79 loci) used in our study [here](https://github.com/Yuxuanliu-HZAU/Spiraea_codes/blob/main/01_Phylogeny_reconstruction/Reference_Chloroplast_CDS.fasta). Download it before running HybSuite.
 
 ## 04 Run HybSuite
 
