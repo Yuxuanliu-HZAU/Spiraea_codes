@@ -15,7 +15,7 @@ The details of how to prepare sample name list file can be founded in HybSuite m
 
 ## 03 Prepare the Arabidopsis100 target loci file
 
-We have released the Arabidopsis100 target loci file (designed for Rosaceae) used in our study [here](https://github.com/Yuxuanliu-HZAU/Spiraea_codes/blob/main/01_Phylogeny_reconstruction/Arabidopsis100_Rosaceae.fasta). Download it before running HybSuite.
+We have released the Arabidopsis100 target loci file (designed for Rosaceae) used in our study [here](https://github.com/Yuxuanliu-HZAU/Spiraea_codes/blob/main/01_Phylogeny_reconstruction/Reference_Arabidopsis_thaliana_protein.fasta). Download it before running HybSuite.
 
 ## 04 Run HybSuite
 
