@@ -34,7 +34,7 @@ hybsuite full_pipeline \
 -collapse_threshold 10 -run_treeshrink TRUE \
 -t <target_loci_file> -check TRUE
 ```
-- <sample_name_list>: The sample list file.
-- <input_data>: The directory containing all input public data and self-sequenced WGS data.
-- <out_dir>: The output directory.
-- <target_loci_fasta>: The Angiosperms353 target loci file (designed for Rosaceae).
+- `<sample_name_list>`: The sample list file.
+- `<input_data>`: The directory containing all input public data and self-sequenced WGS data.
+- `<out_dir>`: The output directory.
+- `<target_loci_fasta>`: The Angiosperms353 target loci file (designed for Rosaceae).
