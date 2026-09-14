@@ -1,5 +1,5 @@
 # Spiraea_codes
-This repository documents the codes for the project: The evolutionary history of Spiraea (Rosaceae) in China: insights from nuclear phylogenomics
+This repository documents the codes for the project: **The evolutionary history of Spiraea (Rosaceae) in China: insights from nuclear phylogenomics**
 
 ## Table of Contents
 - [01 Phylogeny reconstruction]()
