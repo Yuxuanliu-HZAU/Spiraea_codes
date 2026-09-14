@@ -9,7 +9,7 @@ The filenames shoud be `<sample_name>_1.fq.gz` and `<sample_name>_2.fq.gz` for p
 
 ## 02 Prepare sample name list before running HybSuite
 
-The sample name list used in Angiosperms353 dataset can be checked and downloaded [here](https://github.com/Yuxuanliu-HZAU/Spiraea_codes/blob/main/01_Phylogeny_reconstruction/Input_list_Angiosperms353.txt).
+The sample name list used in Angiosperms353 dataset can be checked and downloaded [here](https://github.com/Yuxuanliu-HZAU/Spiraea_codes/blob/main/01_Phylogeny_reconstruction/Sample_list.Angiosperms353.txt).
 
 The details of how to prepare sample name list file can be founded in HybSuite manual [here](https://yuxuanliu-hzau.github.io/HybSuite.docs/docs/tutorial/#1-the-sample-list-file).
 
