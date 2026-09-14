@@ -15,7 +15,7 @@ The details of how to prepare sample name list file can be founded in HybSuite m
 
 ## 03 Prepare the Angiosperms353 target loci file
 
-We have released the Angiosperms353 target loci file (designed for Rosaceae) used in our study [here](https://github.com/Yuxuanliu-HZAU/Spiraea_codes/blob/main/01_Phylogeny_reconstruction/Angiosperms353_Rosaceae.fasta). Download it before running HybSuite.
+We have released the Angiosperms353 target loci file (designed for Rosaceae) used in our study [here](https://github.com/Yuxuanliu-HZAU/Spiraea_codes/blob/main/01_Phylogeny_reconstruction/Reference_Angiosperms353_Rosaceae.fasta). Download it before running HybSuite.
 
 ## 04 Run HybSuite
 
